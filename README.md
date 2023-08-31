@@ -22,6 +22,7 @@
 > - Post image
 > - Create post
 > - Add like to post
+> - Search post
 > - Get new posts
 > - Get post by id
 
