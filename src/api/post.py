@@ -39,7 +39,7 @@ async def add_like_to_post(
     return res
 
 @router.post('/search', status_code=200)
-async def get_posts(
+async def search_posts(
     uow: UOWDep,
     limit: int = 50,
     start: int = 0,
